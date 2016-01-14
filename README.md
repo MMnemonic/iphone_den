@@ -7,7 +7,7 @@ The app was built in a weekend (or so) by one designer and one developer.
 
 
 ## Setup
-1. Clone the repo `git clone https://github.com/asamiller/den`
+1. Clone the repo `git clone https://github.com/MMnemonic/iphone_den.git`
 2. Install dependencies `npm install`
 4. Open `Den.xcodeproj` in Xcode
 5. Hit Build and test it in the iPhone simulator
